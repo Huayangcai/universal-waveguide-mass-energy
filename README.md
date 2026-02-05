@@ -87,4 +87,5 @@ If you distribute a modified version, you must also release the source code unde
 
 ## Citation
 
-If you use this code in academic work, please cite the associated manuscript.
+If you use this code in academic work, please cite the associated manuscript:
+H. Cai, B. Chen, A universal waveguide mass-energy relation for lossy one-dimensional waves in nature. arXiv, https://doi.org/10.48550/arXiv.2602.04171.
